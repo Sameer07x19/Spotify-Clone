@@ -83,9 +83,7 @@ A web application replicating the core interface of Spotify, built with **ReactJ
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
