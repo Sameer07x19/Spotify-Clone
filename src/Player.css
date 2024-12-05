@@ -1,0 +1,9 @@
+.player {
+    display: flex;
+    /* flex-direction: row; */
+  }
+  
+  .player__body {
+    display: flex;
+    flex-grow: 1;
+  }
